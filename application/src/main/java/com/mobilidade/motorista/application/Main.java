@@ -1,4 +1,4 @@
-package com.mobilidade.motorista;
+package com.mobilidade.motorista.application;
 
 public class Main {
     public static void main(String[] args) {
